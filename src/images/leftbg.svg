@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1295px" height="682px" viewBox="0 0 1295 682" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>27F6FF54-6F76-431D-8DA4-FAABA0381E95</title>
+    <defs>
+        <path d="M0,0 L839.521866,0 C870.200176,0 898.610808,16.1575297 914.294111,42.5240361 L1216.46224,550.524036 C1241.02564,591.819607 1227.46153,645.208848 1186.16596,669.772245 C1172.71086,677.7756 1157.34546,682 1141.69,682 L0,682 L0,0 Z" id="path-1"></path>
+        <radialGradient cx="93.6401905%" cy="17.1932752%" fx="93.6401905%" fy="17.1932752%" r="107.00231%" gradientTransform="translate(0.936402,0.171933),scale(0.868588,1.000000),rotate(144.965470),scale(1.000000,0.589092),translate(-0.936402,-0.171933)" id="radialGradient-3">
+            <stop stop-color="#FF432B" offset="0%"></stop>
+            <stop stop-color="#FFC72B" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-7.4%" y="-8.5%" width="114.8%" height="117.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="32" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="93.6401905%" cy="17.1932752%" fx="93.6401905%" fy="17.1932752%" r="99.0097026%" gradientTransform="translate(0.936402,0.171933),scale(1.000000,0.969836),rotate(140.229948),scale(1.000000,0.589092),translate(-0.936402,-0.171933)" id="radialGradient-5">
+            <stop stop-color="#FF432B" offset="0%"></stop>
+            <stop stop-color="#FFC72B" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-8.0%" y="-7.8%" width="116.0%" height="115.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="32" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-YLN" transform="translate(0.000000, -3540.000000)">
+            <g id="left-bg" transform="translate(0.000000, 3540.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FCD057" xlink:href="#path-1"></use>
+                <path d="M-104.073633,866.385185 C207.594028,1125.91624 1092.90677,855.617988 1092.90677,603.5 C1092.90677,351.382012 832.168016,-152 580.050027,-152 C327.932039,-152 123.91525,21.0814647 123.91525,273.199453 C123.91525,374.046648 37.5702033,447.600835 -46.0971229,516.170856 L-58.616011,526.421767 C-179.222657,625.206464 -284.840876,715.85717 -104.073633,866.385185 Z" id="Oval" fill="url(#radialGradient-3)" opacity="0.394975935" filter="url(#filter-4)" mask="url(#mask-2)"></path>
+                <path d="M816.660097,635.843726 C993.082744,270.647681 516.636963,-522.976426 272.007957,-461.983564 C27.3789502,-400.990703 -397.97205,-26.2178697 -336.979188,218.411137 C-275.986327,463.040143 -58.6899929,619.124565 185.939014,558.131704 C283.790616,533.734559 376.048687,599.720421 462.822844,664.313881 L475.797851,673.980984 C600.825609,767.106917 714.334962,847.657433 816.660097,635.843726 Z" id="Oval" fill="url(#radialGradient-5)" opacity="0.394975935" filter="url(#filter-6)" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

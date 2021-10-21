@@ -1,0 +1,59 @@
+.navRectangle{
+  box-shadow: 1px 1px 11px #00000011;
+}
+.Search{
+  border: 0 0 0 0;
+}
+
+.backGround{
+  background-image: url("./images/elements.png");
+}
+
+ #Sorting{
+  box-sizing: border-box;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid rgba(73,67,58,0.18);
+  border-radius: 3px;
+  background-color: #F9F9F9;
+  text-decoration-color:#2C2823 ;
+  font-style:"Helvetica Neue";
+  text-align: left;
+ }
+
+ .backGroundImg{
+  background: transparent url('images/Rectangle.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  height: 800px;
+}
+
+@media (min-width: 951px) and (max-width:1200px) { 
+  .par {
+    font-size:15px; 
+  } 
+}
+
+@media (min-width: 576px) and (max-width:992px) { 
+  .par {
+    font-size:10px;
+  } 
+}
+
+@media (min-width: 953px) and (max-width:1250px) { 
+  .imgPosition {
+     margin-left: -90px; 
+  } 
+}
+
+@media (min-width: 1245px) and (max-width:1600px) { 
+  .imgPosition {
+     margin-left: -100px; 
+  } 
+}
+
+
+@media (min-width: 576px) and (max-width:992px) { 
+  .imgPosition {
+    margin-left: -60px; 
+  } 
+}

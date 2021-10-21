@@ -1,0 +1,115 @@
+.rectangle2 {
+    position: relative;
+    /* margin-left: 140px; */
+    margin-top: 80px;
+    margin-bottom: 35px;;
+    height: 96px;
+    width: 300px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 50px 50px 50px 50px rgba(0,0,0,0.12);
+  }
+  .personpic1{
+    margin-top:15px;
+  }
+  .personName1{
+    margin-right:50px;
+  }
+  .vl1{
+    margin-left:33px;
+     margin-top:5px;
+     font-size:10px;
+  }
+  .part2{
+    background-image: url("./images/Rectangle.png");
+    margin-top: -500px;
+    height: 1125px;
+    
+  }
+  /* .name1{
+    margin-top:20px;
+  } */
+  .rectangle3 {
+    opacity: 0.7;
+    position: relative;
+    /* margin-left: 140px; */
+    margin-top: 80px;
+    height: 96px;
+    width: 300px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 19px 16px 18px 0 rgba(0,0,0,0.12);
+    margin-top:10px;
+    /* marginTop:0 */
+  }
+  .personpic2{
+     margin-top: 15px;
+  }
+  .personName2{
+    margin-right:100px;
+  }
+  .name2{
+    margin-top:20px;
+  }
+  .vl2{
+    margin-left:-33px;
+     margin-top:5px;
+      font-size:10px;
+  }
+  .personpic3{
+    margin-top:15px;
+     height:70px; 
+      width: 70px;
+  }
+  .personName3{
+    margin-right:100px;
+  }
+  .name3{
+    margin-top:10px;
+  }
+  .vl3{
+    margin-left:-33px;
+    margin-top:5px;
+     font-size:10px;
+  }
+  .star-div{
+    float:Right;
+     margin-left:64px;
+      margin-top:90px;
+  }
+
+  .grad {
+    max-height: 1053.39px;
+    height: 665px;
+    width: 100%;
+    background: linear-gradient( -390deg, white 60%, #eedc69 73%,#f5cdb5,#f5cdb5, #f5cdb5 );
+    /* background: linear-gradient( 390deg, white 60%, #eedc69 63%,#f5cdb5,#f5cdb5, #f5cdb5 ); */
+    opacity: 0.9;
+
+  }
+
+.ylnheading1{
+   
+     color:#D08E3F;
+}
+  .rectangle5 {
+    box-sizing: border-box;
+    height: 200px;
+    width: 278px;
+    border-bottom: 2px solid #FFC72B;
+    opacity: 0.82;
+    border-radius: 18px;
+    background-color: #FFFFFF;
+    box-shadow: 19px 16px 18px 0 rgba(0,0,0,0.12);
+  }
+  
+  .logo4{
+    
+      background-image: url("./images/elements.png");
+    
+  }
+  .backgroundofCuteBoy{ 
+    background-image: url("./images/backgroundemployee.png");
+    background-repeat: no-repeat;
+    background-size: 2090px 1400px;
+  }
